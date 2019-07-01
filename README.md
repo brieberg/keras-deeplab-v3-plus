@@ -122,3 +122,12 @@ git checkout 714a6b7d1a069a07547c5c08282f1a706db92e20
 ```
 tensorflow-gpu==1.13  
 Keras==2.2.4  
+
+
+----------
+Folder Structure for ISIC
+- data
+  - ISIC2018_Task1-2_Training_Input
+  - ISIC2018_Task1-2_Validation_Input
+  - ISIC2018_Task1_Training_GroundTruth
+- runs
